@@ -1,0 +1,4 @@
+1. combine model_generate and RACIPE;
+2. change the structure;
+3. simplify the RACIPE.c and package some codes of it into functions;
+4. No need to generate _fun.c file.
